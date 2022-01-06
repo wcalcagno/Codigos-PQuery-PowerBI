@@ -1,0 +1,21 @@
+idSuc;Zona;Ciudad;JefeSucursal;Lat;Long
+"C01";"Centro";"Santiago";"Raul Soto";-33,455362;-70,590131
+"C02";"Centro";"Concepción";"Blanca Soto";-36,763168;-73,067374
+"C03";"Centro";"Valparaiso";"Susana Pereira";-33,045939;-71,612985
+"C04";"Centro";"Rancagua";"Camila Estuardo";-34,163824;-70,736629
+"C05";"Centro";"Viña del Mar";"Ignacio Acuña";-33,019315;-71,551158
+"C06";"Centro";"Talca";"Rossana Aguilera";-35,427875;-71,654461
+"C07";"Centro";"Los Andes";"Jorge Pichot";-32,837229;-70,600026
+"N01";"Norte";"Arica";"Luis Medina";-18,48539;-70,292831
+"N02";"Norte";"Tocopilla";"Andres Neira";-22,09071;-70,194839
+"N03";"Norte";"Iquique";"Jose Figueroa";-20,230703;-70,135666
+"N04";"Norte";"Antofagasta";"Nadia Torres";-23,650928;-70,397499
+"N05";"Norte";"Calama";"Rosa Aliaga";-22,4513;-68,923798
+"N06";"Norte";"Copiapó";"Rodrigo Fuentes";-27,377255;-70,316552
+"N07";"Norte";"Coquimbo";"Esteban Lemus";-29,967278;-71,340751
+"N08";"Norte";"La Serena";"Andrea Cisternas";-29,905841;-71,251006
+"S01";"Sur";"Temuco";"Javier Zagal";-38,738017;-72,596895
+"S02";"Sur";"Puerto Montt";"Alan Brito";-41,472011;-72,934673
+"S03";"Sur";"Punta Arenas";"Juan Rodriguez";-53,156473;-70,908798
+"S04";"Sur";"Valdivia";"Hugo Neira";-39,818063;-73,238458
+"S05";"Sur";"Osorno";"Michell Delgado";-40,575989;-73,13164
